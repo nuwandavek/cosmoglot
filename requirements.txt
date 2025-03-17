@@ -1,0 +1,13 @@
+ollama
+jupyterlab
+pandas
+numpy
+pydantic
+pyarrow
+fsspec
+huggingface_hub
+IPyWidgets
+git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
+torch
+torchvision
+torchaudio

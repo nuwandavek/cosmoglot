@@ -1,0 +1,4 @@
+ollama_stuff
+.venv
+__pycache__
+*.env
